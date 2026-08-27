@@ -1,0 +1,7 @@
+{
+  "portalName": "Harborview Care",
+  "playerUrl": "https://YOUR-PORTAL/index.html#/player?kiosk=1",
+  "adminUrl": "https://YOUR-PORTAL/index.html#/login",
+  "weatherProvider": "Open-Meteo",
+  "syncIntervalSeconds": 60
+}
